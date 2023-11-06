@@ -1,0 +1,12 @@
+{
+    "name": "LastFMRichPresence",
+    "description": "Little plugin for Last.fm rich presence",
+    "authors": [
+      {
+        "name": "NahoSama",
+        "id": "279225699259383809"
+      }
+    ],
+    "main": "src/index.js"
+    
+  }
