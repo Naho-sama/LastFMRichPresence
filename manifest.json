@@ -7,6 +7,8 @@
         "id": "279225699259383809"
       }
     ],
-    "main": "src/index.js"
-    
+    "main": "src/index.js",
+    "vendetta": {
+        "icon": "clock"
+      }
   }
